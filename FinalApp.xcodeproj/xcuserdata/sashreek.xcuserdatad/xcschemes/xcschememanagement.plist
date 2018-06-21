@@ -7,7 +7,25 @@
 		<key>FinalApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>917394CA20A28B7F00FB5772</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>917394DE20A28B8100FB5772</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>917394E920A28B8100FB5772</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

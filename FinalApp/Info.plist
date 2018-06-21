@@ -34,6 +34,8 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Study Group Finder</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -41,5 +43,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Study Group Finder</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string></string>
+	<key>NSLocationUsageDescription</key>
+	<string>Study Group Finder</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Study Group Finder</string>
 </dict>
 </plist>
